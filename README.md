@@ -28,7 +28,7 @@ More information about the method can be found in the following paper:
  
 #### 3) Preprocessing
 On this step you will need to download the reference database, partition it, and index with [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) software.
-Go to "preprocessing" folder for more details
+Go to [preprocessing](https://github.com/stebliankin/PeTRi/tree/master/preprocessing) folder for more details
 
 #### 4) Set up config file
 
