@@ -39,5 +39,6 @@ Vitalii Stebliankin, Musfiqur Sazal, Camilo Valdes, Kalai Mathee, and GiriNarasi
     
     
 * <b>4-Select_major_ABR.ipynb</b> - select ABR genes that present in at least 5% of the study samples.
-The output of this notebook is file `analysis-out/1-FilteringPTR/PTR_species_filtered_metadata_major.csv` 
-which we used to run causal analysis in PeTRi module `C-Causality`
+The output of this notebook is file `analysis-out/4-Select_major_ABR/PTR_species_filtered_metadata_major.csv` 
+which were used to run causal analysis in PeTRi module `C-Causality`
+

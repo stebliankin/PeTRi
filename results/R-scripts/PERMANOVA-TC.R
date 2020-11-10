@@ -1,13 +1,11 @@
 # PERMANOVA analysis to see if there are difference in AMR between patients treated with TC and control
 
-setwd("/Users/stebliankin/Desktop/AntibioticsFinal/Slurm-PTR-Analysis")
 
 metric <- "jaccard"
 
-#in_file <- "/Users/stebliankin/Desktop/AntibioticsProject/AntibioticsPTR/PTR-analysis/data/tc_permanova_in_scaled.csv"
-in_file <- "/Users/stebliankin/Desktop/AntibioticsProject/AntibioticsPTR/PTR-analysis/data/tc_permanova_in_TC-rest.csv"
-PCOA_out <- "data/Gibson-et-al/PERMANOVA/tc_pcoa.png"
-permanova_out = "data/Gibson-et-al/PERMANOVA/tc_PERMANOVA.csv"
+in_file <- "/tc_permanova_in_TC-rest.csv"
+PCOA_out <- "tc_pcoa.png"
+permanova_out = "tc_PERMANOVA.csv"
 
 ################################
 # Read the data

@@ -7,9 +7,8 @@ library(dplyr)
 library(ggpubr)
 library(ggplot2)
 
-out_folder <- "data/Gibson-et-al/PERMANOVA/PLSDA"
-#in_file <- "/Users/stebliankin/Desktop/AntibioticsProject/AntibioticsPTR/PTR-analysis/data/tc_permanova_in_scaled.csv"
-in_file <- "/Users/stebliankin/Desktop/AntibioticsProject/AntibioticsPTR/PTR-analysis/data/tc_permanova_in_TC-rest.csv"
+out_folder <- "."
+in_file <- "tc_permanova_in_TC-rest.csv"
 out_features <- paste(out_folder, "/features-tc.csv", sep="")
 out_features_significant <- paste(out_folder, "/features-tc_significant.csv", sep="")
 
