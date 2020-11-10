@@ -3,7 +3,7 @@
 <b>PeTRi</b> is a pipeline that combines efficient cluster computation of bacterial replication rates from metagenomic 
 sequence data, abundance profile, resistome profile, and environmental variables to perform causality analysiss.
 
----### Placeholder for the figure
+![PeTRi](./images/Fig1.png)
 
 The pipeline consist of three modules:<br>
 

@@ -11,6 +11,8 @@ where each raw is a sample and each column is a random variable;
 * <b>3-writeStyle</b> - apply syling rules to the learned causal structure and transform it to the xgmml format;
 * <b>4-ComputeCorrelations</b> - compute Spearman correlation between variables connected with an arc.
 
+![restrictions](../images/restrictions.png)
+
 ### Output
 * <i>blacklist.csv</i> - list of restricted edges;
 * <i>bn_correlation.csv</i> - strength of Spearman correlation for each of the edge;
