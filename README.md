@@ -7,9 +7,9 @@ sequence data, abundance profile, resistome profile, and environmental variables
 
 The pipeline consist of three modules:<br>
 
-* [A-PTR_abundance]() - Compute PTR and microbial abundance from metagenomic samples;<br>
-* [B-ABR-genes]()  Identify ABR genes present in metagenomic samples;<br>
-* [C-Causality]() Apply causal inference to PTR, microbial profile, resistome profile, and clinical variables <br>
+* [A-PTR_abundance](https://github.com/stebliankin/PeTRi/tree/master/A-PTR_abundance) - Compute PTR and microbial abundance from metagenomic samples;<br>
+* [B-ABR-genes](https://github.com/stebliankin/PeTRi/tree/master/B-ABR_genes)  Identify ABR genes present in metagenomic samples;<br>
+* [C-Causality](https://github.com/stebliankin/PeTRi/tree/master/C-Causality) Apply causal inference to PTR, microbial profile, resistome profile, and clinical variables <br>
 
 Each of the models has detailed instructions on how to run the parts of the pipeline.
 

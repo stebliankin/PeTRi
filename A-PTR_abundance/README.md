@@ -11,7 +11,7 @@ The pipeline consists of 3 parts:
  
 #### 1) Preprocessing
 On this step you will need to download the reference database, partition it, and index with [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml) software.
-Go to [preprocessing]() folder for more details
+Go to [preprocessing](https://github.com/stebliankin/PeTRi/tree/master/A-PTR_abundance/preprocessing) folder for more details
 
 #### 2) Set up config file
 
