@@ -12,12 +12,9 @@ Vitalii Stebliankin, Musfiqur Sazal, Camilo Valdes, Kalai Mathee, and GiriNarasi
 * <b>metadata</b> - metadata about samples and reference genomes
 
 ##### Output from PeTRi run based on <i>Gibson et al.</i> samples (BioProject ID: PRJNA301903):
-* <b>A-out</b>: output from the PeTRi module "A-PTR_abundance" 
-((#TODO:add link));
-* <b>B-out</b>: output from the PeTRi module "B-ABR_genes";
-(#TODO:add link));
-* <b>C-out</b>: output from the PeTRi module "C-Causality";
-((#TODO:add link));
+* <b>A-out</b>: output from the PeTRi module [A-PTR_abundance](https://github.com/stebliankin/PeTRi/tree/master/A-PTR_abundance);
+* <b>B-out</b>: output from the PeTRi module [B-ABR_genes](https://github.com/stebliankin/PeTRi/tree/master/B-ABR_genes);
+* <b>C-out</b>: output from the PeTRi module [-Causality](https://github.com/stebliankin/PeTRi/tree/master/C-Causality);
 
 
 #### Obtaining results described in the paper
